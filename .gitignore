@@ -1,5 +1,6 @@
 __pycache__
-.zip
+*.zip
 .ipynb_checkpoints
 text8
 text8.zip
+.git
